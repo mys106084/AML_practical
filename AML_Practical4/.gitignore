@@ -1,0 +1,7 @@
+pylearn2/
+.data
+.env
+*.pyc
+*~
+*.bak
+*.swp
